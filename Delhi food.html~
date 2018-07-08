@@ -1,0 +1,105 @@
+<html>
+<head>
+<style>
+.card {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    width: 60%;
+}
+
+.card:hover {
+    box-shadow: 0 5px 20px 0 rgba(4,4,4,4);
+}
+
+.container {
+    padding: 5px 20px;
+}
+</style></head>
+<body bgcolor="grey"><!--style="background-image:url('2.jpg');background-attachment:fixed;">-->
+<center><h1><b><span style="color: white"><br>PLACES TO EAT</span></b></h1></center>
+<table border=0>
+<tr><td><div class="card" style="width:300;height:500">
+  <img src="1.3.jpg" alt="Avatar" style="width:300;height:255">
+  <div class="container" style="background-color:white">
+<a href="https://www.hungryforever.com/hood-food-the-delhi-guide-7-place-to-eat-in-paharganj/" target="_blank" style="text-decoration: none; color: black">  <h3>PAHARGANJ:</h3><br>
+    <b><span style="font-size: 17">Paharganj is a locality in Delhi near the New Delhi Railway Station synonymous with budget hotels and guest houses which cater largely to foreign backpackers. The locality has a string of restaurant, cafes and bars which serve a range of international cuisine.<br><br></span><b></a>
+  </div></td>
+  <td><table border="0" cellpadding="20"><tr><td>
+<p style="float:left;color:white;font-size:22" ><b>If you ask a Delhi-ite what are two things that really stand out for them about the city, it would be the rich history and the mouth-watering food. Now, I have to admit this blog sure got me in a tizzy. It's tough being born in a city which offers such a rich diversity of cuisines. Delhi is a melting pot of various cultures and races who enrich the variety of the gastronomic range in the city. From Chandni Chowk to Majnu ka Tilla, Delhi is replete with many culinary delights.<br><br>The real flavour of the Delhi street food lies in the chaat. The original chaat is a mixture of potato pieces, crispy fried bread, Dahi Bhalla, gram and tangy-salty spices. The mixture is garnished with sour home-made Indian chilly and saunth (dried ginger and tamarind sauce), fresh green coriander leaves and yoghurt.<b></p></tr></td></table></td><td>
+
+<div class="card" style="width:300;height:525">
+  <img src="1.4.jpg" alt="Avatar" style="width:300;height:250">
+  <div class="container" style="background-color:white">
+<a href="https://www.zomato.com/ncr/best-hauz-khas-village-restaurants" target="_blank" style="text-decoration: none; color: black">  <h3>HAUZ KHAS VILLAGE:</h3><br>
+    <b><span style="font-size: 17">One of Delhi's hippest neighbourhoods, Hauz Khas Village or HKV as it is popularly known is one of the best places to eat in Delhi. Some of Hauz Khas Village's popular restaurants are Out of the Box, Dzoukou, Amici, Zo, Smoke House Deli, Mia Bella and the Golconda Bowl among others.<br><br></span></b> </a>
+  </div></td></table>
+<br><br><br><br><br>
+<table>  
+  <tr><td><iframe width="830" height="540" src="https://www.youtube.com/embed/UK67nzDUQ38" frameborder="0" allowfullscreen></iframe></td><td><table border="0" cellpadding="20"><tr><td>
+<p style="float:left;color:white;font-size:18"><b><br><br>When you are in Old Delhi, you just can't miss the food there. The streets buzz with activity and are filled with the aroma of food. For the connoisseurs, there are restaurants like Karim's. For the food historians, there's a chance to taste Butter Chicken at Moti Mahal. Chandni Chowk, often called the food capital of India, is famous for its street food. The variety consists of snacks, especially chaat.<br><br>Though the number of shops in this lane has reduced - one wonders if their owners are more interested in McDonald's franchises - there still are a few left from the good old days. Perhaps the oldest among these is Pt Gaya Prasad Shiv Charan, established in 1872. </b></p></tr></td></table></td></table><br><br>
+
+<center><table cellpadding="10"><tr><td>
+<div class="card" style="width:300;height:505">
+  <img src="1.5.jpg" alt="Avatar" style="width:300;height:255">
+  <div class="container" style="background-color:white">
+  <a href="http://www.dillihaat.net.in/" target="_blank" style="text-decoration: none; color: black">  <h3>DILLI HAAT:</h3>
+    <b><span style="font-size: 16">Apart from the numerous shopping options it offers, Dilli Haat is one of the most popular culinary destinations in Delhi. Offering authentic cuisine from across the country, Dilli Haat has numerous stalls representing different states across India serving delicacies from that region.<br><br><br></span></b> </a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:505">
+  <img src="kunzum.jpg" alt="Avatar" style="width:300;height:255">
+  <div class="container" style="background-color:white">
+  <a href="http://kunzum.com/travelcafe/" target="_blank" style="text-decoration: none; color: black"> <h3>KUNZUM:</h3>
+   <b><span style="font-size: 17">One of the most unique cafes in Delhi, Kunzum is essentially a travel cafe where there is no fixed menu and you are free to pay as much as you like for coffee and cookies.<br><br><br><br><br><br></span></b></a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:500">
+  <img src="1.7.jpg" alt="Avatar" style="width:300;height:252">
+  <div class="container" style="background-color:white">
+  <a href="http://hangouts.co.in/2053-top-10-places-to-eat-the-best-chaat-in-delhi.html" target="_blank" style="text-decoration: none; color: black">  <h3>CHAAT:</h3>
+   <b><span style="font-size: 17">Delhi has always remained famous for its chaat and is one of the must haves if you're in the city. Chaat is an umbrella term of sorts and includes delicacies such as gol gappas, aloo tikki, papri chaat and dahi bhallas.<br><br><br><br></span></b>  </a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:500">
+  <img src="kulfi.jpg" alt="Avatar" style="width:300;height:251"><br>
+  <div class="container" style="background-color:white">
+  <a href="http://hangouts.co.in/1652-best-rabri-falooda-kulfi-in-delhi.html" target="_blank" style="text-decoration: none; color: black">  <h3>KULFI:</h3>
+    <b><span style="font-size: 16">The Indian version of ice cream, kulfi is a frozen dessert very popular not only in Delhi, but across the country. Delicious and creamy, kulfi comes in a variety of flavours and some of the popular flavours are saffron, cardamom, mango and rose. there is also the falooda kulfi which is essentially kulfi served with sweet noodles.</span></b>  </a>
+  </td></tr></table></center>
+  </div>
+  <br><br><br><br><br>
+  <center><table cellpadding="10"><tr><td>
+<div class="card" style="width:300;height:500">
+  <img src="1.8.jpg" alt="Avatar" style="width:300;height:169">
+  <div class="container" style="background-color:white">
+  <a href="https://www.zomato.com/ncr/khan-chacha-khan-market-new-delhi" target="_blank" style="text-decoration: none; color: black">  <h3>KHAN CHACHA</h3>
+    <b><span style="font-size: 17">One of the most popular kebab joints in Delhi, Khan Chacha is famous for their kebab rolls and rightly so. Apart from their kebabs, Khan Chacha is also famous for its mouthwatering chicken tikka and paneer tikka. In the winter do make it a point to try out their fish tikka, which is truly divine.<br><br><br><br></span></b> </a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:500">
+  <img src="wengers.jpg" alt="Avatar" style="width:300;height:169">
+  <div class="container" style="background-color:white">
+  <a href="http://www.wengers.in/" target="_blank" style="text-decoration: none; color: black"> <h3>WENGERS:</h3>
+    <b><span style="font-size: 17">One of Delhi's oldest establishments, Wenger's is one among the best confectionary shops in Delhi. Set up in 1926 Wenger's is your go to place if you wish to enjoy some bakery delights.Head to Wenger's to sample their delicious range of cakes, pastries, tarts, sandwiches, patties, shammi kebabs and cookies.<br><br></span></b> </a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:500">
+  <img src="parathas.jpg" alt="Avatar" style="width:300;height:169">
+  <div class="container" style="background-color:white">
+  <a href="https://www.hungryforever.com/7-paratha-paradises-delhi/" target="_blank" style="text-decoration: none; color: black">  <h3>PARATHAS:</h3>
+    <b><span style="font-size: 17">The parantha remains a popular Indian favourite flatbread thanks to its delicious taste and how innovative it is. A parantha can be had for breakfast, lunch dinner and even as a late night between snack.Paranthas are primarily vegetarian and can be stuffed with potatoes, green peas, cauliflower, radish, paneer.<br><br><br></span></b> </a>
+  </div></td><td>
+  
+  <div class="card" style="width:300;height:500">
+  <img src="1.9.jpg" alt="Avatar" style="width:300;height:169"><br>
+  <div class="container" style="background-color:white">
+  <a href="https://www.zomato.com/ncr/keventers-janakpuri-new-delhi" target="_blank" style="text-decoration: none; color: black">  <h3>KEVENTERS:</h3>
+    <b><span style="font-size: 17">A tiny, hole in the wall establishment, Keventers is one of Delhi's oldest culinary establishments and is popular for its large chilled bottles of flavoured milkshakes.Keventer’s milkshakes are available in vanilla, pineapple, strawberry, chocolate, coffee and mango flavours.<br><br><br><br><br></span></b> </a>
+  </td></tr></table></center>
+  <br><br><br>
+  <p style="float:left"><b>
+  <a href="https://www.zomato.com/ncr/top-restaurants" target="_blank" style="color: white">MORE FOOD JOINTS</a>
+  <b></p>
+</body>
+</html>
+

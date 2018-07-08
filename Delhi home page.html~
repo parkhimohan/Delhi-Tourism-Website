@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+<title>DELHI TOURISM</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+<ul class="w3-navbar w3-black w3-card-2 w3-left-align">
+  
+
+ <li><a href="#" class="w3-hover-none w3-hover-text-grey w3-padding-large">HOME</a></li>
+  <li class="w3-hide-small"><a href="#intro" class="w3-padding-large">INTRODUCTION</a></li>
+  <li class="w3-hide-small"><a href="#History" class="w3-padding-large">HISTORY</a></li>
+  <li class="w3-hide-small"><a href="#climate" class="w3-padding-large">CLIMATE</a></li>
+  <li class="w3-hide-small"><a href="#culture" class="w3-padding-large">CULTURE</a></li>
+  <li class="w3-hide-small"><a href="#education" class="w3-padding-large">EDUCATION</a></li>
+  <li class="w3-hide-small"><a href="#govt" class="w3-padding-large">GOVERNMENT</a></li>
+  <li class="w3-hide-small"><a href="#sports" class="w3-padding-large">SPORTS AND MEDIA</a></li>
+    <li class="w3-hide-small w3-dropdown-hover">
+    <a href="javascript:void(0)" class="w3-hover-none w3-padding-large" title="More">TOURISM<i class="fa fa-caret-down"></i></a>     
+    <div class="w3-dropdown-content w3-white w3-card-4">
+      <a href="Delhi tourism.html" target="_blank">Places to visit</a>
+      <a href="Delhi food.html" target="_blank">Food</a>
+      <a href="Delhi shopping.html" target="_blank">Shop</a>
+    </div>
+    </li>
+  <li class="w3-hide-small"><a href="#contact" class="w3-padding-large">CONTACT US</a></li>
+</ul>
+</div>
+
+<!-- Page content -->
+<div class="history" id="history" style="max-width:2000px;margin-top:46px">
+
+  <!-- Automatic Slideshow Images -->
+
+  <div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/Red_Fort" target="_blank">  <img src="RedFort.jpg" style="width:1100px;height:500px">  </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color:white"><strong><b>Red Fort</b></strong></h1>
+    </div>
+  </div>
+<div class="mySlides w3-display-container w3-center">
+  <a href="http://presidentofindia.nic.in/rashtrapati-bhavan.htm" target="_blank">  <img src="RashtrapatiBhawan.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: black"><strong><b>Rashtrapati Bhawan</b></strong></h1>
+    </div>
+  </div>
+<div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/Delhi_Metro" target="_blank">  <img src="Metro.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: black"><strong><b>Metro</b></strong></h1>
+    </div>
+  </div>
+<div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/Lotus_Temple" target="_blank">  <img src="LotusTemple.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color:white"><strong><b>Lotus Temple</b></strong></h1>
+    </div>
+  </div>
+<div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/India_Gate" target="_blank">  <img src="IndiaGate.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: white"><strong><b>India Gate</b></strong></h1>
+    </div>
+  </div>
+<div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/Humayun's_Tomb" target="_blank">  <img src="HumayunTomb.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: white"><strong><b>Humayun's Tomb</b></strong></h1>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+  <a href="http://akshardham.com/" target="_blank">  <img src="Akshardham.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: white"><strong><b>Akshardham Temple</b></strong></h1>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+  <a href="https://en.wikipedia.org/wiki/Qutb_Minar" target="_blank">  <img src="QutbMinarTower.jpg" style="width:1100px;height:500px"> </a>
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h1 style="color: black"><strong><b>Qutub Minar</b></strong></h1>    
+    </div>
+   </div>
+
+  <div class="w3-row w3-padding-32">
+  
+</div>
+
+  <div class="w3-black">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:80%; height: 640px;" id="intro">
+      <h2 class="w3-wide w3-center">INTRODUCTION</h2>
+     
+<p style="float: left; width:70%">Delhi, officially the National Capital Territory of Delhi (NCT), is a city and a union territory of India. It is bordered by Haryana on three sides and by Uttar Pradesh to the east. It is the most expansive city in India—about 1,484 square kilometres (573 sq mi). It has a population of about 25 million, making it the second most populous city after Mumbai and most populous urban agglomeration in India and 3rd largest urban area in the world. Urban expansion in Delhi has caused it to grow beyond the NCT to incorporate towns in neighbouring states. At its largest extent, there is a population of about 25 million residents as of 2014. After Mumbai, Delhi has the second-highest number of billionaires and millionaires in India. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br><br></p>
+<img src="map.png" style="float: right; width:27%; height: 220px;"><br><br>
+<br><br><p>
+Delhi has been continuously inhabited since the 6th century BCE. Through most of its history, Delhi has served as a capital of various kingdoms and empires. It has been captured, ransacked and rebuilt several times, particularly during the medieval period, and modern Delhi is a cluster of a number of cities spread across the metropolitan region.<br><br>
+Delhi and its urban region have been given the special status of National Capital Region (NCR) under the Constitution of India's 69th Amendment Act of 1991. The NCR includes the neighbouring cities of Faridabad, Gurgaon, Noida, Ghaziabad, Greater Faridabad, Greater Noida, Bahadurgarh, Sonepat, Panipat, Karnal, Rohtak, Bhiwani, Rewari, Baghpat, Meerut, Muzaffarnagar, Alwar, Bharatpur and other nearby towns. A union territory, the political administration of the NCT of Delhi today more closely resembles that of a state of India, with its own legislature, high court and an executive council of ministers headed by a Chief Minister. New Delhi is jointly administered by the federal government of India and the local government of Delhi, and is the capital of the NCT of Delhi. Delhi hosted the first and ninth Asian Games in 1951 and 1982 respectively, 1983 NAM Summit, 2010 Men's Hockey World Cup, 2010 Commonwealth Games, 2012 BRICS Summit and was one of the major host cities of the 2011 Cricket World Cup.<br>
+</p>
+
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+       
+              </div>
+    </div>
+</div>
+
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:100%" id="History">
+    <h2 class="w3-wide" >HISTORY</h2>
+    <p class="w3-opacity"><i>Get to know the story of Delhi</i></p>
+    <blockquote><p class="w3-justify" style="float:left; width:80%">The area around Delhi was probably inhabited before the second millennium BC and there is evidence of continuous inhabitation since at least the 6th century BC. The city is believed to be the site of Indraprastha, the legendary capital of the Pandavas in the Indian epic Mahabharata. Remains of eight major cities have been discovered in Delhi. The first five cities were in the southern part of present-day Delhi. Gurjara-Pratihara King Anang Pal of the Tomara dynasty founded the city of Lal Kot in AD 736. Prithviraj Chauhan conquered Lal Kot in 1178 and renamed it Qila Rai Pithora.<br><br>
+The king Prithviraj Chauhan was defeated in 1192 by Muhammad Ghori, a Tajik invader from Afghanistan. By 1200, native Hindu resistance had begun to crumble. Qutb-ud-din assumed control of Ghori's Indian possessions. He laid the foundation of the Delhi Sultanate and the Mamluk Dynasty. He began construction of the Qutb Minar and Quwwat-al-Islam (Might of Islam) mosque, the earliest extant mosque in India. Qutb-ud-din faced widespread Hindu rebellions because he broke several ancient temples to acquire wealth and material to build mosques and other monuments.<br><br></p></blockquote>
+<img src="BarodaHouse.jpg" style="border:10px; width:250px; height:220px; border-color: white; "><br><br>
+<table><tr><td>
+<img src="taj.jpg" style="border:40px; width:200px; height:322px;"></td><td></td><td></td><td></td><td></td><td>
+
+ <p class="w3-justify" style="float:right; width:100%">For the next three hundred years, Delhi was ruled by a succession of Turkic and an Afghan, Lodhi dynasty. They built several forts and townships that are part of the seven cities of Delhi. Delhi was a major centre of Sufism during this period. The Mamluk Sultanate (Delhi) was overthrown in 1290 by Jalal ud din Firuz Khilji (1290-1320). Under Ala-ud-din Khilji, the Delhi sultanate extended its control south of the Narmada River in the Deccan. The Delhi sultanate reached its greatest extent during the reign of Muhammad bin Tughluq (1325-1351). In an attempt to bring the whole of the Deccan under control, he moved his capital to Daulatabad, Maharashtra in central India. However, by moving away from Delhi he lost control of the north and was forced to return to Delhi to restore order. The southern provinces then broke away. In the years following the reign of Firoz Shah Tughlaq (1351-1388), the Delhi sultanate rapidly began to lose its hold over its northern provinces. Delhi was captured and sacked by Timur Lenk in 1398, who massacred 100,000 captives. Delhi's decline continued under the Sayyid dynasty (1414-1451), until the sultanate was reduced to Delhi and its hinterland. Under the Afghan Lodhi dynasty (1451-1526), the Delhi sultanate recovered control of the Punjab and the Gangetic plain to once again achieve domination over Northern India. However, the recovery was short-lived and the sultanate was destroyed in 1526 by Babur, founder of the Mughal dynasty.<br><br>
+Babur, was a descendant of Genghis Khan and Timur. In 1526, he invaded India, defeated the last Lodhi sultan in the First Battle of Panipat and founded the Mughal Empire that ruled from Delhi and Agra. The Mughal dynasty ruled Delhi for more than three centuries. In 1553, the Hindu king, Hemu acceded to the throne of Delhi by defeating forces of Mughal Emperor Humayun at Agra and Delhi. However, the Mughals re-established their rule after Akbar's army defeated Hemu during the Second Battle of Panipat in 1556. Shah Jahan built the seventh city of Delhi that bears his name Shahjahanabad, which served as the capital of the Mughal Empire from 1638 and is today known as the Old City or Old Delhi.<br><br></p></td></tr>
+</table>
+<blockquote><p class="w3-justify" style="float:left; width:80%">After the death of Aurangzeb in 1707, the Mughal Empire's influence declined rapidly as the Hindu Maratha Empire from Deccan Plateau rose to prominence. In 1737, Maratha forces sacked Delhi following their victory against the Mughals in the First Battle of Delhi. In 1739, the Mughal Empire lost the huge Battle of Karnal against Nader Shah of Persia. After his invasion, he completely sacked and looted Delhi, carrying away immense wealth including the Peacock Throne, the Daria-i-Noor, and Koh-i-Noor. The Mughals, severely further weakened, could never overcome this crushing defeat and humiliation which also left the way open for more invaders to come, including eventually the British. Nader eventually agreed to leave the city and India after forcing the Mughal emperor Muhammad Shah I to beg him for mercy and granting him the keys of the city and the royal treasury. A treaty signed in 1752 made Marathas the protectors of the Mughal throne in Delhi.<br><br>
+ 
+In 1757, the Afghan ruler, Ahmad Shah Durrani, sacked Delhi. He returned to Afghanistan leaving a Mughal puppet ruler in nominal control. The Marathas again occupied Delhi in 1758, and were in control until their defeat in 1761 at the third battle of Panipat when the city was captured again by Ahmad Shah. However, in 1771, the Marathas established a protectorate over Delhi when the Maratha ruler, Mahadji Shinde, recaptured Delhi and the Mughal Emperor Shah Alam II was installed as a puppet ruler in 1772. In 1783, Sikhs under Baghel Singh captured Delhi and Red Fort but due to the treaty signed, Sikhs withdrew from Red Fort and agreed to restore Shah Alam II as the emperor. In 1803, during the Second Anglo-Maratha War, the forces of British East India Company defeated the Maratha forces in the Battle of Delhi.<br><br>
+During the Indian Rebellion of 1857, Delhi fell to the forces of East India Company after a bloody fight known as the Siege of Delhi. The city came under the direct control of the British Government in 1858. It was made a district province of the Punjab. In 1911, it was announced that the capital of British held territories in India was to be transferred from Calcutta to Delhi. The name "New Delhi" was given in 1927, and the new capital was inaugurated on 13 February 1931. New Delhi, also known as Lutyens' Delhi, was officially declared as the capital of the Union of India after the country gained independence on 15 August 1947. During the partition of India, thousands of Hindu and Sikh refugees, mainly from West Punjab fled to Delhi, while many Muslim residents of the city migrated to Pakistan. Migration to Delhi from the rest of India continues, contributing more to the rise of Delhi's population.<br>
+The Constitution (Sixty-ninth Amendment) Act, 1991 declared the Union Territory of Delhi to be formally known as the National Capital Territory of Delhi. The Act gave Delhi its own legislative assembly along Civil lines.<br>
+</p></blockquote>
+<img src="IronPillar.jpg" style="border:10px; width:250px; height:535px; border-color: white;float:right">
+</div>
+<!-- ************************************************************************************************************************************************************************************-->
+
+  
+  <div class="w3-black" id="climate">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:90%; height: 720px">
+      <h2 class="w3-wide w3-center">CLIMATE</h2>
+      <p class="w3-opacity w3-center"><i>Choose your favourite season to visit</i></p><br>
+      
+      <center><p style="width:50%">The climate of Delhi is an overlap between monsoon-influenced humid subtropical and semi-arid, with high variation between summer and winter temperatures and precipitation</p></center>
+
+      <table style="width: 100%; cell-spacing: 20px; cell-padding: 50px">
+      <tr><td></td></tr> 
+<tr>
+<tr><td><img src="climate.png" style="height: 350px; width: 400px; float: left; border: 2px solid black"></td><td></td><td></td><td></td><td></td>
+<td><b>SUMMER:</b>&nbsp;&nbsp;
+Summer begins in early April and continues till the end of June, with the heat peaking in May. It is characterized by extreme heat, low humidity, very hot winds and thunderstorms. <br><br>
+<b>WINTER:</b>&nbsp;&nbsp;
+Winter arrives in Delhi by late November or early December. Minimum temperatures gradually enter single digits by this time of the year, while days are pleasant.<br><br>
+<b>AUTUMN:</b>&nbsp;&nbsp;
+The end of monsoon marks the arrival of a transition season. Autumn arrives by early or mid October, and is marked by very dry ambiance, warm days and pleasant nights. <br><br>
+<b>MONSOON:</b>&nbsp;&nbsp;
+Monsoon winds arrive in Delhi by either the end of June or the first week of July. The arrival of moisture laden South-Western winds, traveling from the Arabian Sea marks the onset of Rainy season in Delhi.<br><br>
+<b>SPRING:</b>&nbsp;&nbsp;
+Around the middle of February, Delhi's climate sees another transition, this time from Winter to Summer. The transition weather is known as Spring and is characterized by warm days, cool nights, dry ambiance and lively natural surroundings.<br>
+</td></tr></table>
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+
+      </div>
+    </div>
+  </div>
+
+ 
+<!--***************************************************************************************************************************************************************************************-->
+  
+  <div class="w3-container w3-content w3-padding-64" style="max-width:90%" id="culture">
+    <h2 class="w3-wide w3-center">CULTURE</h2>
+    <p class="w3-opacity w3-center"><i><center>The beauty of our world lies in the diversity of our people<br>Come, be a part!</center></i></p><br>
+   <table><tr><td>Delhi's culture has been influenced by its lengthy history and historic association as the capital of India. This is exemplified by many significant monuments in the city. Delhi is also identified as the location of Indraprastha, the ancient capital of the Pandavas.<br> The Archaeological Survey of India recognises 1200 heritage buildings and 175 monuments as national heritage sites. In the Old City, the Mughals and the Turkic rulers constructed several architecturally significant buildings, such as the Jama Masjid, India's largest mosque built in 1656  and the Red Fort.<br><br>
+<b>FESTIVALS:</b><br>
+Delhi's association and geographic proximity to the capital, New Delhi, has amplified the importance of national events and holidays like Republic Day, Independence Day and Gandhi Jayanti.<br> Religious festivals include Diwali , Mahavir Jayanti, Guru Nanak's Birthday, Raksha Bandhan, Durga Puja, Holi, Lohri, Chauth, Krishna Janmastami, Maha Shivratri, Eid ul-Fitr, Moharram and Buddha Jayanti.<br><br>
+<b>CUISINE:</b><br>
+As India's national capital and centuries old Mughal capital, Delhi influenced the food habits of its residents and is where Mughlai cuisineoriginated.<br> The fast living habits of Delhi's people has motivated the growth of street food outlets. A trend of dining at local dhabas is popular among the residents.<br>
+</td><td></td><td></td><td></td><td></td><td><iframe width="600" height="460" src="https://www.youtube.com/embed/M3f9mgkNQMA" frameborder="0" allowfullscreen></iframe></td></tr></table>
+  </div>
+  <!--**************************************************************************************************************************************************************************************-->
+  
+  <div class="w3-black" id="education">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:90%">
+      <h2 class="w3-wide w3-center">EDUCATION</h2>
+      <p class="w3-opacity w3-center"><i>Our most powerful weapon to change the world</i></p><br>
+
+   <table cellpadding:"50px"><tr>
+   <td><img src="du.jpg" style="height:200px; width: 300px"></td><td></td><td></td><td></td>
+   <td rowspan="5">Private schools in Delhi – which use either English or Hindi as the language of instruction – are affiliated to one of three administering bodies, the Council for the Indian School Certificate Examinations(CISCE), the Central Board for Secondary Education (NCERT - CBSE) or the National Institute of Open Schooling (NIOS).<br><br>
+VARIOUS INSTITUTIONS IN DELHI:<br>
+<ul>
+<li><a href="http://dtu.ac.in/" target="_blank" style="text-decoration: none">Delhi Technological University</a></li><br>
+<li><a href="https://www.iiitd.ac.in/" target="_blank" style="text-decoration: none"> Indraprastha Institute of Information Technology</a> </li><br>
+<li><a href="http://nludelhi.ac.in/" target="_blank" style="text-decoration: none"> National Law University, Delhi</a> </li><br>
+<li><a href="http://du.ac.in/" target="_blank" style="text-decoration: none"> University of Delhi, Jawaharlal Nehru University</a></li><br>
+<li><a href="http://jmi.ac.in/" target="_blank" style="text-decoration: none"> Jamia Millia Islamia,</a> <a href="https://en.wikipedia.org/wiki/List_of_institutions_of_higher_education_in_Delhi" target="_blank" style="text-decoration: none">and many more.</a></li></ul>
+
+</td>
+<td><img src="aiims.jpg" style="height: 200px; width: 300px"></td></tr><!--  extra --> <tr></tr><tr></tr><tr></tr>
+<tr><td><img src="nlu.jpg" style="height:200px; width: 300px"></td><td></td><td></td><td></td>
+<td><img src="iitd.jpg" style="height:200px; width: 300px"></td></tr>
+    </table>
+
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+            </div>
+  </div>
+</div>
+ 
+<!--***************************************************************************************************************************************************************************************-->
+  
+  <div class="w3-container w3-content w3-padding-64" style="max-width:90%" id="govt">
+    <h2 class="w3-wide w3-center">GOVERNMENT AND POLITICS</h2>
+    
+    <div class="w3-row w3-padding-32">
+
+    <table>
+    	<tr><td rowspan="4">
+        <p>The National Capital Territory of Delhi has its own Legislative Assembly, Lieutenant Governor, council of ministers and Chief Minister. Members of the legislative assembly are directly elected from territorial constituencies in the NCT. The legislative assembly was abolished in 1956, after which direct federal control was implemented until it was re-established in 1993. The Municipal co-operation handles civic. Administration for the city as part of the Panchayati Raj Act. The Government of India and the Government of National Capital Territory of Delhi jointly administer New Delhi, where both bodies are located. The Parliament of India, the Rashtrapati Bhavan (Presidential Palace), Cabinet Secretariat and the Supreme Court of India are located in the municipal district of New Delhi. There are 70 assembly constituencies and seven Lok Sabha (Indian parliament's lower house) constituencies in Delhi. The Indian National Congress (Congress) formed all the governments in Delhi until the 1990s, when the Bharatiya Janata Party (BJP), led by Madan Lal Khurana, came to power. In 1998, the Congress returned to power under the leadership of Sheila Dikshit, who was subsequently re-elected for 3 consecutive terms. But in 2013, the Congress was ousted from power by the newly formed Aam Aadmi Party (AAP) led by Arvind Kejriwal forming the government with outside support from the Congress. However, that government was short-lived, collapsing only after 49 days. Delhi was then under President's rule till February 2015. On 10 February 2015, the Aam Aadmi Party returned to power after a landslide victory, winning 67 out of the 70 seats in the Delhi Legislative Assembly.</p></td><td></td>
+        <td><a href="https://en.wikipedia.org/wiki/Government_of_India" target="_blank"><img src="supremecourt.jpg" style="height: 150px; width: 300px"></a></td></tr><tr></tr><tr></tr>
+        <tr><td></td><td><a href="https://en.wikipedia.org/wiki/Government_of_India" target="_blank"><img src="parliament.jpg" style="height: 150px; width: 300px"></a></td></tr>
+        </table>
+
+        
+    
+    </div>
+  </div>
+<!--**************************************************************************************************************************************************************************************-->
+
+  
+  <div class="w3-black" id="sports">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:90%; height: 1600px">
+      <h2 class="w3-wide w3-center">SPORTS AND MEDIA</h2>
+      <p class="w3-opacity w3-center"><i>Every champion was once a contender that refused to give up</i></p><br>
+
+      <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+      <h3><center>SPORTS</center></h3><br><br>
+      <table>
+      	<tr>
+      	<td><a href="http://d2010.thecgf.com/" target="_blank"><img src="stadium.jpg" style="height: 200px; width: 300px"></a></td><td></td><td></td><td></td>
+      	<td rowspan="7">
+
+Delhi has hosted many major international sporting events, including the first and also the ninth Asian Games, the 2010 Hockey World Cup, the 2010 Commonwealth Games and the 2011 Cricket World Cup. <br><br>
+The 2010 Commonwealth Games, which ran from 3 to 14 October 2010, was one of the largest sports event held in India. The opening ceremony of the 2010 Commonwealth Games was held at the Jawaharlal Nehru Stadium. The ceremony featured over 8,000 performers and lasted for two and a half hours. It is estimated that ₹3.5 billions were spent to produce the ceremony. Events took place at 12 competition venues. 20 training venues were used in the Games, including seven venues within Delhi University. The rugby stadium in Delhi University North Campus hosted rugby games for Commonwealth Games.<br><br>
+Cricket and football are the most popular sports in Delhi. There are several cricket grounds, or maidans, located across the city. The Feroz Shah Kotla Ground is one of the oldest cricket grounds in India and is a venue for international cricket matches. It is the home ground of the Delhi cricket team, which represents the city in the Ranji Trophy, the premier Indian domestic first-class cricket championship. The Delhi cricket team has produced several world-class international cricketers such as Virender Sehwag, Virat Kohli, Gautam Gambhir, Madan Lal, Chetan Chauhan, Ishant Sharma and Bishan Singh Bedi to name a few. The Railways and Services cricket teams in the Ranji Trophy also play their home matches in Delhi, in the Karnail Singh Stadium and the Harbax Singh Stadium respectively. The city is also home to the Indian Premier League team Delhi Daredevils, who play their home matches at the Kotla, and was the home to the Delhi Giants team (previously Delhi Jets) of the now defunct Indian Cricket League.<br><br>
+Ambedkar Stadium, a football stadium in Delhi which holds 21,000 people, was the venue for the Indian football team's World Cup qualifier against UAE on 28 July 2012.Delhi hosted the Nehru Cup in 2007 and 2009, in both of which India defeated Syria 1–0. In the Elite Football League of India, Delhi's first professional American football franchise, the Delhi Defenders played its first season in Pune. Buddh International Circuit in Greater Noida, a suburb of Delhi, hosts the annual Formula 1 Indian Grand Prix. The Indira Gandhi Arena is also in Delhi.<br><br>
+Delhi also has a football team Delhi Dynamos FC, which plays in Indian Super League. Jawaharlal Nehru Stadium is the home stadium for Delhi Dynamos FC.<br><br>
+Delhi is a member of the Asian Network of Major Cities 21.
+
+
+</td>
+      	</tr>	<tr></tr><tr></tr>
+      	<tr><td><a href="https://en.wikipedia.org/wiki/2010_Commonwealth_Games" target="_blank"><img src="run.jpg" style="height: 200px; width: 300px"></a></td><td></td><td></td><td></td></tr>      <tr></tr><tr></tr>
+      	<tr><td><a href="https://en.wikipedia.org/wiki/2010_Commonwealth_Games" target="_blank"><img src="delhi2010.jpg" style="height: 200px; width: 300px"></a></td><td></td><td></td><td></td></tr>
+      </table><br><br><br><br>
+
+       <h3><center>MEDIA</center></h3><br>
+       <table>
+       	<tr>
+       		
+       		<td>As the capital of India, Delhi is the focus of political reportage, including regular television broadcasts of Parliament sessions. Many national media agencies, including the state-owned Press Trust of India, Media Trust of India and Doordarshan, is based in the city. Television programming includes two free terrestrial television channels offered by Doordarshan, and several Hindi, English, and regional-language cable channels offered by multi system operators. Satellite television has yet to gain a large quantity of subscribers in the city.<br><br>
+Print journalism remains a popular news medium in Delhi. The city's Hindi newspapers include Navbharat Times, Hindustan Dainik, Punjab Kesari, Pavitra Bharat, Dainik Jagran, Dainik Bhaskar, Amar Ujala – Delhi  and Dainik Desbandhu. Amongst the English language newspapers, The Hindustan Times, with a daily circulation of over a million copies, is the single largest daily. Other major English newspapers include Times of India, The Hindu, Indian Express, Business Standard, The Pioneer, The Statesman, and The Asian Age. Regional language newspapers include the Malayalam daily Malayala Manorama and the Tamil dailies Dinamalar and Dinakaran.<br><br>
+Radio is a less popular mass medium in Delhi, although FM radio has gained popularity since the inauguration of several new stations in 2006. A number of state-owned and private radio stations broadcast from Delhi.
+</td><td></td><td></td><td></td><td></td>
+		<td><a href="http://pressclubofindia.co.in/media-directories/" target="_blank"><img src="tower.jpg" style="height: 350px; width: 300px"></a></td>
+       	</tr>
+       </table>
+
+      </div>
+    </div>
+  </div>
+<!--**************************************************************************************************************************************************************************************-->
+  
+  <div class="w3-container w3-content w3-padding-64" style="max-width:100%" id="contact">
+    <h2 class="w3-wide w3-center">CONTACT US</h2>
+    <p class="w3-opacity w3-center"><i>Come, plan a trip!</i></p>
+    <div class="w3-row w3-padding-32">
+   	     <center>
+      <table cellspacing="20px">
+      <tr><td rowspan="2">
+
+      <p>DELHI TOURISM AND TRANSPORT DEVELOPMENT CORPORATION</p>
+        <i class="fa fa-map-marker" style="width:30px"></i>18-A, D.D.A.SCO Complex,<br>
+&emsp;&emsp;Defence Colony,<br>
+&emsp;&emsp;New Delhi - 24,
+<br>
+
+   <a href="http://www.tourism-delhi.com/" target="_blank" style="text-decoration: none">     <i class="fa fa-phone" style="width:30px"></i> Phone: 91-11-24647005, 24698431, 24618026<br>
+          <i class="fa fa-fax" style="width:30px"></i> Fax: 91-11-24697352, 24610500<br><br>
+      
+        <p>Tourist Central Reservation Office</p>
+           <i class="fa fa-phone" style="width:30px"></i> Phone: 91-11-23365358, 23363607<br>
+          <i class="fa fa-fax" style="width:30px"></i> Fax: 91-11-23365358, 23363607<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> Email: tourism@delhitourism.gov.in<br><br>
+
+        <p>Tourist City Information Service</p>
+         <i class="fa fa-phone" style="width:30px"></i> Phone: 91-11-1280<br> </a></td> 
+         <td><a href="http://www.delhitourism.gov.in/delhitourism/index.jsp" target="_blank"><img src="contact1.jpg" style="height: 200px; width: 200px"></a></td>
+         <td><a href="http://www.tourism-delhi.com/" target="_blank"><img src="contact2.jpg" style="height: 200px; width: 200px"></a></td><td></td><td></td><td></td><td></td> </tr>
+
+         <tr><td colspan="2"><a href="https://www.youtube.com/watch?v=M_FLiXWvEXE" target="_blank"><img src="contact3.jpg" style="height: 200px; width: 420px"></a></td><td></td><td></td><td></td><td></td></tr>
+
+
+         </table>
+         </center>
+    
+
+    </div>
+  </div>
+</div>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 3000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+
+</body>
+</html>
